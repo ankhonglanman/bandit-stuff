@@ -12,6 +12,8 @@ level 10: B0s2khmbT9u0geKuOoVGW3JZKhndE3BG
 level 11: pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro
 level 12: GROozWPO8QyN0mGrjUkID0WCYkZiQxrN
 level 13: qQYQiHOBPR8zR61qxYqX45quvihF2uzk
-
 level 14: private key trong /home/an-vu/CodingCoding/overthewire
-level 15: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+level 15: pbLYuZtTg4MgaqfJx8jbA9gKKGqM68A7
+level 16: kS0Hf0u5HiXFwKMKFqXvPdOTNGGa0X8V
+level 17: key in ./keylevel17.private 
+level 18: OQxXZjELndr90zuhOTDYBEomI0SZITXI
